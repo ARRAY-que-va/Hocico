@@ -6,3 +6,8 @@
 - 1° Scrum Master
 - 
 
+## Valen Flores
+- 19 años 
+
+## Juan Morales
+- 21 años
