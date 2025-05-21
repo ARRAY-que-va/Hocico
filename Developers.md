@@ -1,10 +1,10 @@
 # PRESENTACIÓN DEVELOPERS
 
-## Iván Bürcher (no Ivo)
+## Iván Bürcher 
 
-- 28 AÑOS. Cordoba Capital
+- 28 AÑOS. 
 - 1° Scrum Master
-- Aguante DIGIMON
+- Cordoba Capital
 
 ## Valen Flores
 
