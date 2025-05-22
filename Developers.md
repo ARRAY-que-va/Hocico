@@ -14,3 +14,8 @@
 ## Victoria Torresster
 - 26 años
 - Programadora Front-End
+
+## Lautaro Faure
+- 19 años
+- Programacion  medio 
+- villa carlos paz 
