@@ -16,12 +16,9 @@
 - 26 años
 - Programadora Front-End
 
-<<<<<<< HEAD
 ## Exequiel Vera
 -29 años
-=======
 ## Lautaro Faure
 - 19 años
 - Programacion  medio 
 - villa carlos paz 
->>>>>>> a5fbb45ea3c7c780a031c058316c248d836d9f56
