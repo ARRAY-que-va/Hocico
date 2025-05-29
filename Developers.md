@@ -14,3 +14,6 @@
 ## Victoria Torresster
 - 26 años
 - Programadora Front-End
+
+## Exequiel Vera
+-29 años
