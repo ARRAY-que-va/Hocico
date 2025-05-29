@@ -10,6 +10,7 @@
 
 ## Juan Morales
 - 21 años
+- https://github.com/JuandMorales96
 
 ## Victoria Torresster
 - 26 años
