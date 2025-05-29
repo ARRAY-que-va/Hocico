@@ -4,8 +4,7 @@
 
 Un portal que ayuda a encontrarte con tu proxima mascota.
 
-### Posibles Funcionalidades o Áreas de Enfoque Inicial:
-
+### Posibles Funcionalidades o Áreas de Enfoque Inicial: 
 Mapa de lugares de adopción, Descripción de la mascota, Fotos del lugar, Redes,
 
 ### Miembros del Equipo:
@@ -15,7 +14,7 @@ Mapa de lugares de adopción, Descripción de la mascota, Fotos del lugar, Redes
 - Juan Morales
 - Victoria Torres
 - Exequiel
-- Lautaro
+- Lautaro Faure
 
 _(Ver el archivo Developers.md para mas info)_
 
