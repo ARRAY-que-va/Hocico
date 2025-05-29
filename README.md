@@ -32,6 +32,3 @@ Clínicas veterinarias que quieren ofrecer servicios con descuento o colaborar c
 
 . Municipalidades o entes públicos
 Organismos que promueven políticas de adopción responsable o campañas de cuidado animal y necesitan una plataforma para difundirlas.
-
-
-
