@@ -2,8 +2,9 @@
 
 ## Iván Bürcher 
 - 28 AÑOS. 
-- 1° Scrum Ma
+- 1° Scrum Master
 - Cordoba Capital
+- https://github.com/ivanbur97
 
 ## Valen Flores
 - 19 años
@@ -13,18 +14,17 @@
 - 21 años
 - https://github.com/JuandMorales96
 
-## Victoria Torresster
+## Victoria Torres
 - 26 años
+- https://github.com/VictoriaTorres0
 - Programadora Front-End
 
 ## Exequiel Vera
--29 años
-## Lautaro Faure
-- 19 años
-- Programacion  medio 
-- villa carlos paz 
+- 29 años
+- https://github.com/VeraExe95
 
 ## Lautaro Octavio Faure
 - 19 años
+- Programacion  medio 
 - https://github.com/lautaro65
 - Villa carlos paz
