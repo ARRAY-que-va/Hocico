@@ -17,7 +17,18 @@ Mapa de lugares de adopción, Descripción de la mascota, Fotos del lugar, Redes
 - Exequiel
 - Lautaro
 
+### Posibles clientes.
+
+. Fundaciones y refugios de animales Organizaciones sin fines de lucro que rescatan y cuidan animales y necesitan una plataforma para publicar animales en adopción, así como pedir donaciones de insumos o ayuda.
+
+. Protectoras independientes Personas que, de forma particular, rescatan animales y buscan darles un hogar responsable.
+
+. Veterinarias solidarias Clínicas veterinarias que quieren ofrecer servicios con descuento o colaborar con campañas de castración o vacunación.
+
+. Municipalidades o entes públicos Organismos que promueven políticas de adopción responsable o campañas de cuidado animal y necesitan una plataforma para difundirlas.
+
 ### Posibles usuarios.
+
 . Familias interesadas en adoptar
 Personas o grupos familiares que buscan incorporar una mascota a su hogar y necesitan una plataforma confiable donde puedan ver animales en adopción, filtrar por tamaño, edad o especie, y contactar fácilmente al refugio o rescatista.
 
