@@ -19,3 +19,8 @@
 
 ## Exequiel Vera
 -29 años
+
+## Lautaro Octavio Faure
+- 19 años
+- https://github.com/lautaro65
+- Villa carlos paz
