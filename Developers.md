@@ -7,15 +7,20 @@
 
 ## Valen Flores
 - 19 años
+- https://github.com/TValenFlores
 
 ## Juan Morales
 - 21 años
+- https://github.com/JuandMorales96
 
 ## Victoria Torresster
 - 26 años
 - Programadora Front-End
 
-## Lautaro Faure
+## Exequiel Vera
+-29 años
+
+## Lautaro Octavio Faure
 - 19 años
-- Programacion  medio 
-- villa carlos paz 
+- https://github.com/lautaro65
+- Villa carlos paz
